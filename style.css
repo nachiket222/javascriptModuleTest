@@ -249,6 +249,7 @@
 }
 
 .rules{
+    display: none;
     background: #004429;
     border: 7px solid #FFFFFF;
     color: #FFFFFF;
@@ -276,6 +277,7 @@
     font-size: 1.5rem;
 }
 .x{
+    display: none;
     position: absolute;
     background: #FF0000;
     border: 5px solid #FFFFFF;
